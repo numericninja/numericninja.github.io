@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We make statistics to better understand the upcoming 2018 lebanese parliamentary elections and upload them to this website.
 
-### More Information
+### Want to help? 
 
-A place to include any other types of information that you'd like to include about yourself.
+You can send us data, suggest new analysis or send us your own statistics by email to the following address.
 
-### Contact me
+### Contact us
 
 [email@domain.com](mailto:email@domain.com)
