@@ -6,7 +6,7 @@ published: true
 
 Here is a picture.
 
-![https://upload.wikimedia.org/]({{site.baseurl}}/wikipedia/commons/c/ce/Beirut_close_to_plane_descent.jpg)
+![_config.yml](https://upload.wikimedia.org/wikipedia/commons/c/ce/Beirut_close_to_plane_descent.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
