@@ -109,13 +109,19 @@ h4 {
   text-align: right;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 813px) {
   .nav-center {
     display: none;
   }
   .nav-left,
   .nav-right {
     width: 50%;
+  }
+  .navbar .lefty {
+    visibility:hidden;
+  }
+  .menu-icon {
+    display:none;
   }
 }
 
@@ -125,10 +131,22 @@ h4 {
   }
   .nav-center {
     display: block;
-    width: 50%;
+    width: 70%;
+  }
+  .nav-left {
+    width:30%;
   }
   .author span {
-    display: none;
+    /* display: none; */
+  }
+  .navbar .lefty {
+    visibility:hidden;
+  }
+  .menu-icon {
+    display:none;
+  }
+  h1 {
+    font-size:30px;
   }
 }
 #search {
